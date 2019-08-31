@@ -6,4 +6,5 @@ ad.pandora.tv
 ads.pandora.tv.net
 adserver.pandora.com
 pandora.deliveryengine.adswizz.com
+audio-sv5-t2-2-v4v6.pandora.com
 tracker.pandora.com
