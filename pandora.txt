@@ -8,3 +8,6 @@ adserver.pandora.com
 pandora.deliveryengine.adswizz.com
 audio-sv5-t2-2-v4v6.pandora.com
 tracker.pandora.com
+mediaserver-cont-sv5-2-v4v6.pandora.com
+t1-2.p-cdn.us
+cont-2.p-cdn.us
