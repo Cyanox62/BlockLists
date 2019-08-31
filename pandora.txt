@@ -5,10 +5,12 @@ cont-4.p-cdn.us
 ad.pandora.tv
 ads.pandora.tv.net
 adserver.pandora.com
+t2-2.p-cdn.us
 pandora.deliveryengine.adswizz.com
 audio-sv5-t2-2-v4v6.pandora.com
 tracker.pandora.com
 mediaserver-cont-sv5-2-v4v6.pandora.com
 t1-2.p-cdn.us
+iaserver-cont-dc6-1-v4v6.pandora.com
 cont-2.p-cdn.us
 audio-sv5-t2-1-v4v6.pandora.com
