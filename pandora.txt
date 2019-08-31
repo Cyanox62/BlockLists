@@ -11,3 +11,4 @@ tracker.pandora.com
 mediaserver-cont-sv5-2-v4v6.pandora.com
 t1-2.p-cdn.us
 cont-2.p-cdn.us
+audio-sv5-t2-1-v4v6.pandora.com
