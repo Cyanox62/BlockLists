@@ -2,3 +2,8 @@ t2-3.p-cdn.us
 audio-dc6-t2-1-v4v6.pandora.com
 t2-5.p-cdn.us
 cont-4.p-cdn.us
+ad.pandora.tv
+ads.pandora.tv.net
+adserver.pandora.com
+pandora.deliveryengine.adswizz.com
+tracker.pandora.com
