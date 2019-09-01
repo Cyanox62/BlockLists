@@ -22,3 +22,4 @@ cont-3.p-cdn.us
 t1-1.p-cdn.us
 t2-1.p-cdn.us
 audio-ch1-t1-2-v4v6.pandora.com
+cont-1.p-cdn.us
