@@ -18,3 +18,4 @@ audio-sv5-t2-1-v4v6.pandora.com
 audio-ch1-t2-1-v4v6.pandora.com
 mediaserver-cont-ch1-1-v4v6.pandora.com
 cont-5.p-cdn.us
+cont-3.p-cdn.us
