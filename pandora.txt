@@ -25,3 +25,4 @@ audio-ch1-t1-2-v4v6.pandora.com
 cont-1.p-cdn.us
 audio4-fa.scdn.co
 mediaserver-cont-sv5-1-v4v6.pandora.com
+t2-4.p-cdn.us
