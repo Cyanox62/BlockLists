@@ -31,3 +31,4 @@ audio-ch1-t1-1-v4v6.pandora.com
 mediaserver-cont-sv5-3-v4v6.pandora.com
 audio-dc6-t2-2-v4v6.pandora.com
 audio-dc6-t2-2-v4v6.pandora.com
+audio-sp-dca.pscdn.co
