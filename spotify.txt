@@ -53,3 +53,16 @@
 127.0.0.1 www.audio2.spotify.com
 127.0.0.1 desktop.spotify.com
 127.0.0.1 heads-ec.spotify.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 d3rt1990lpmkn.cloudfront.net
+0.0.0.0 ds.serving-sys.com
+0.0.0.0 gtssl2-ocsp.geotrust.com
+0.0.0.0 open.spotify.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 redirector.gvt1.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 heads-fa.spotify.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 weblb-wg.gslb.spotify.com
